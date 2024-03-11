@@ -2,6 +2,8 @@
 ussing namespace std;
 int (main)
 {
+cout<<"My Name is Taha Feroz"<<endl;
+cout<<"My Roll no. is 23-set-051"<<endl;
 cout<<"the sum of two numbers is:";a+b<<endl;
 cout<<"the subtraction of two numbers is:;<<a-b<<endl;
 }
